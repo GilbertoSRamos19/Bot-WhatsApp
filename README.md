@@ -90,17 +90,7 @@ Use com responsabilidade.
 Distribuído sob a licença ISC. Veja LICENSE para mais detalhes.
 
 
----
 
-### 📝 O que esse README tem de especial:
-- Badge de status, Node e Railway 💅
-- GIF animado (nuvem do WhatsApp e outro de exemplo de bot rodando)
-- Organização limpa por seções
-- Chama atenção de quem abrir o repositório — profissional na medida!
 
----
-
-Quer que eu gere um GIF real do **seu bot rodando** no terminal ou no WhatsApp com uma demo personalizada? Posso te ajudar com isso também!  
-E aí, bora turbinar ainda mais? 🚀😄
 
 
